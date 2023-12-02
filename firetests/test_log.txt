@@ -1,0 +1,714 @@
+Sun Nov 12 11:16:40 AM EST 2023
+Select All: 2.927s
+Select All: 335.356ms
+Select All: 295.509ms
+Select All: 295.415ms
+Select All: 311.096ms
+Select All: 335.104ms
+Select All: 291.581ms
+Select All: 324.178ms
+Select All: 272.335ms
+Select All: 297.196ms
+Equal: 489.973ms
+Equal: 74.577ms
+Equal: 139.998ms
+Equal: 65.385ms
+Equal: 74.625ms
+Equal: 650.519ms
+Equal: 55.628ms
+Equal: 75.865ms
+Equal: 60.959ms
+Equal: 61.812ms
+Ineq: 667.149ms
+Ineq: 269.939ms
+Ineq: 273.908ms
+Ineq: 239.617ms
+Ineq: 234.381ms
+Ineq: 1.685s
+Ineq: 1.469s
+Ineq: 219.289ms
+Ineq: 230.526ms
+Ineq: 216.42ms
+IneqAnd: 0.813ms
+IneqAnd: 0.07ms
+IneqAnd: 0.175ms
+IneqAnd: 0.213ms
+IneqAnd: 0.416ms
+IneqAnd: 0.09ms
+IneqAnd: 0.065ms
+IneqAnd: 0.043ms
+IneqAnd: 0.086ms
+IneqAnd: 0.042ms
+IneqOr: 1.496s
+IneqOr: 242.58ms
+IneqOr: 326.664ms
+IneqOr: 274.063ms
+IneqOr: 6.551s
+IneqOr: 303.71ms
+IneqOr: 227.134ms
+IneqOr: 237.102ms
+IneqOr: 204.114ms
+IneqOr: 246.539ms
+Sun Nov 12 02:03:16 PM EST 2023
+Select All: 1.593s
+Select All: 422.947ms
+Select All: 317.924ms
+Select All: 291.33ms
+Select All: 380.684ms
+Select All: 324.686ms
+Select All: 335.075ms
+Select All: 599.057ms
+Select All: 490.965ms
+Select All: 309.477ms
+Equal: 531.835ms
+Equal: 67.341ms
+Equal: 57.032ms
+Equal: 124.731ms
+Equal: 74.361ms
+Equal: 77.823ms
+Equal: 88.398ms
+Equal: 58.499ms
+Equal: 46.91ms
+Equal: 58.888ms
+Ineq: 652.752ms
+Ineq: 231.857ms
+Ineq: 223.899ms
+Ineq: 244.388ms
+Ineq: 223.651ms
+Ineq: 223.555ms
+Ineq: 375.935ms
+Ineq: 268.191ms
+Ineq: 196.889ms
+Ineq: 218.004ms
+IneqAnd: 0.845ms
+IneqAnd: 0.072ms
+IneqAnd: 0.112ms
+IneqAnd: 0.145ms
+IneqAnd: 0.357ms
+IneqAnd: 0.074ms
+IneqAnd: 0.051ms
+IneqAnd: 0.039ms
+IneqAnd: 0.046ms
+IneqAnd: 0.046ms
+IneqOr: 675.865ms
+IneqOr: 250.896ms
+IneqOr: 288.415ms
+IneqOr: 258.214ms
+IneqOr: 240.801ms
+IneqOr: 239.809ms
+IneqOr: 237.157ms
+IneqOr: 226.119ms
+IneqOr: 238.49ms
+IneqOr: 219.331ms
+Mon Nov 13 02:38:40 PM EST 2023
+Select All: 986.789ms
+Select All: 322.369ms
+Select All: 336.749ms
+Select All: 292.73ms
+Select All: 329.053ms
+Select All: 283.834ms
+Select All: 275.907ms
+Select All: 284.421ms
+Select All: 299.306ms
+Select All: 242.553ms
+Equal: 462.815ms
+Equal: 65.156ms
+Equal: 67.96ms
+Equal: 56.167ms
+Equal: 74.481ms
+Equal: 58.001ms
+Equal: 66.063ms
+Equal: 73.847ms
+Equal: 63.721ms
+Equal: 62.117ms
+Ineq: 720.404ms
+Ineq: 250.151ms
+Ineq: 253.872ms
+Ineq: 268.631ms
+Ineq: 307.945ms
+Ineq: 260.162ms
+Ineq: 241.302ms
+Ineq: 224.893ms
+Ineq: 257.828ms
+Ineq: 219.595ms
+IneqAnd: 0.853ms
+IneqAnd: 0.075ms
+IneqAnd: 0.167ms
+IneqAnd: 0.181ms
+IneqAnd: 0.376ms
+IneqAnd: 0.077ms
+IneqAnd: 0.047ms
+IneqAnd: 0.043ms
+IneqAnd: 0.045ms
+IneqAnd: 0.042ms
+IneqOr: 643.245ms
+IneqOr: 293.232ms
+IneqOr: 273.631ms
+IneqOr: 248.246ms
+IneqOr: 250.997ms
+IneqOr: 256.541ms
+IneqOr: 312.36ms
+IneqOr: 232.375ms
+IneqOr: 246.539ms
+IneqOr: 238.056ms
+Mon Nov 13 08:19:36 PM EST 2023
+Select All: 1.437s
+Select All: 494.018ms
+Select All: 425.819ms
+Select All: 434.321ms
+Select All: 383.403ms
+Select All: 442.966ms
+Select All: 472.457ms
+Select All: 434.914ms
+Select All: 392.691ms
+Select All: 533.933ms
+Equal: 676.884ms
+Equal: 86.071ms
+Equal: 92.713ms
+Equal: 87.446ms
+Equal: 92.036ms
+Equal: 120.71ms
+Equal: 90.121ms
+Equal: 100.935ms
+Equal: 72.341ms
+Equal: 72.094ms
+Ineq: 811.808ms
+Ineq: 370.034ms
+Ineq: 334.242ms
+Ineq: 304.073ms
+Ineq: 345.223ms
+Ineq: 325.646ms
+Ineq: 331.308ms
+Ineq: 314.51ms
+Ineq: 316.288ms
+Ineq: 301.678ms
+IneqAnd: 0.855ms
+IneqAnd: 0.104ms
+IneqAnd: 0.107ms
+IneqAnd: 0.182ms
+IneqAnd: 0.473ms
+IneqAnd: 0.059ms
+IneqAnd: 0.067ms
+IneqAnd: 0.026ms
+IneqAnd: 0.063ms
+IneqAnd: 0.046ms
+IneqOr: 792.123ms
+IneqOr: 384.9ms
+IneqOr: 355.309ms
+IneqOr: 344.016ms
+IneqOr: 332.381ms
+IneqOr: 344.322ms
+IneqOr: 303.004ms
+IneqOr: 376.884ms
+IneqOr: 334.238ms
+IneqOr: 312.562ms
+Tue Nov 14 07:12:55 PM EST 2023
+Select All: 1.061s
+Select All: 521.176ms
+Select All: 442.134ms
+Select All: 430.876ms
+Select All: 433.327ms
+Select All: 458.778ms
+Select All: 436.943ms
+Select All: 734.805ms
+Select All: 1.200s
+Select All: 544.563ms
+Equal: 508.88ms
+Equal: 89.161ms
+Equal: 85.014ms
+Equal: 81.533ms
+Equal: 89.324ms
+Equal: 74.785ms
+Equal: 73.484ms
+Equal: 81.684ms
+Equal: 69.898ms
+Equal: 81.995ms
+Ineq: 770.531ms
+Ineq: 359.746ms
+Ineq: 350.767ms
+Ineq: 329.691ms
+Ineq: 320.748ms
+Ineq: 315.654ms
+Ineq: 341.11ms
+Ineq: 332.077ms
+Ineq: 485.494ms
+Ineq: 322.958ms
+IneqAnd: 0.867ms
+IneqAnd: 0.075ms
+IneqAnd: 0.094ms
+IneqAnd: 0.131ms
+IneqAnd: 0.333ms
+IneqAnd: 0.108ms
+IneqAnd: 0.05ms
+IneqAnd: 0.026ms
+IneqAnd: 0.031ms
+IneqAnd: 0.044ms
+IneqOr: 761.062ms
+IneqOr: 375.111ms
+IneqOr: 376.357ms
+IneqOr: 430.65ms
+IneqOr: 368.555ms
+IneqOr: 351.237ms
+IneqOr: 325.921ms
+IneqOr: 358.291ms
+IneqOr: 320.222ms
+IneqOr: 312.363ms
+Tue Nov 14 09:14:08 PM EST 2023
+Select All: 1.331s
+Select All: 537.285ms
+Select All: 601.47ms
+Select All: 477.129ms
+Select All: 441.94ms
+Select All: 448.41ms
+Select All: 491.017ms
+Select All: 448.907ms
+Select All: 452.651ms
+Select All: 445.108ms
+Equal: 625.704ms
+Equal: 137.813ms
+Equal: 105.532ms
+Equal: 110.172ms
+Equal: 100.765ms
+Equal: 122.555ms
+Equal: 86.968ms
+Equal: 77.539ms
+Equal: 85.438ms
+Equal: 79.805ms
+Ineq: 815.812ms
+Ineq: 363.111ms
+Ineq: 385.761ms
+Ineq: 359.222ms
+Ineq: 367.298ms
+Ineq: 329.155ms
+Ineq: 322.066ms
+Ineq: 344.486ms
+Ineq: 307.547ms
+Ineq: 325.206ms
+IneqAnd: 0.986ms
+IneqAnd: 0.147ms
+IneqAnd: 0.154ms
+IneqAnd: 0.203ms
+IneqAnd: 0.37ms
+IneqAnd: 0.058ms
+IneqAnd: 0.036ms
+IneqAnd: 0.028ms
+IneqAnd: 0.032ms
+IneqAnd: 0.051ms
+IneqOr: 787.715ms
+IneqOr: 374.948ms
+IneqOr: 358.195ms
+IneqOr: 332.813ms
+IneqOr: 341.15ms
+IneqOr: 310.688ms
+IneqOr: 304.113ms
+IneqOr: 296.18ms
+IneqOr: 305.966ms
+IneqOr: 558.416ms
+Wed Nov 15 03:27:14 PM EST 2023
+Select All: 1.008s
+Select All: 502.77ms
+Select All: 426.618ms
+Select All: 415.635ms
+Select All: 443.062ms
+Select All: 443.538ms
+Select All: 490.805ms
+Select All: 934.19ms
+Select All: 800.139ms
+Select All: 555.001ms
+Equal: 528.357ms
+Equal: 94.932ms
+Equal: 85.619ms
+Equal: 90.609ms
+Equal: 87.508ms
+Equal: 100.154ms
+Equal: 91.296ms
+Equal: 87.35ms
+Equal: 90.493ms
+Equal: 72.942ms
+Ineq: 774.06ms
+Ineq: 349.285ms
+Ineq: 349.421ms
+Ineq: 299.168ms
+Ineq: 340.372ms
+Ineq: 330.856ms
+Ineq: 325.982ms
+Ineq: 308.45ms
+Ineq: 301.487ms
+Ineq: 311.545ms
+IneqAnd: 0.916ms
+IneqAnd: 0.076ms
+IneqAnd: 0.107ms
+IneqAnd: 0.141ms
+IneqAnd: 0.356ms
+IneqAnd: 0.057ms
+IneqAnd: 0.038ms
+IneqAnd: 0.041ms
+IneqAnd: 0.039ms
+IneqAnd: 0.045ms
+IneqOr: 792.091ms
+IneqOr: 370.344ms
+IneqOr: 366.219ms
+IneqOr: 362.949ms
+IneqOr: 324.075ms
+IneqOr: 339.687ms
+IneqOr: 326.499ms
+IneqOr: 312.897ms
+IneqOr: 322.63ms
+IneqOr: 306.163ms
+Wed Nov 15 09:14:25 PM EST 2023
+Select All: 1.186s
+Select All: 500.482ms
+Select All: 655.303ms
+Select All: 423.775ms
+Select All: 376.826ms
+Select All: 409.056ms
+Select All: 417.863ms
+Select All: 374.78ms
+Select All: 374.741ms
+Select All: 371.883ms
+Equal: 547.712ms
+Equal: 109.564ms
+Equal: 119.19ms
+Equal: 71.818ms
+Equal: 268.118ms
+Equal: 90.116ms
+Equal: 69.878ms
+Equal: 63.578ms
+Equal: 84.583ms
+Equal: 80.389ms
+Ineq: 797.405ms
+Ineq: 341.112ms
+Ineq: 356.083ms
+Ineq: 321.301ms
+Ineq: 317.567ms
+Ineq: 337.663ms
+Ineq: 337.99ms
+Ineq: 319.744ms
+Ineq: 291.717ms
+Ineq: 306.23ms
+IneqAnd: 0.967ms
+IneqAnd: 0.074ms
+IneqAnd: 0.093ms
+IneqAnd: 0.171ms
+IneqAnd: 0.34ms
+IneqAnd: 0.057ms
+IneqAnd: 0.035ms
+IneqAnd: 0.027ms
+IneqAnd: 0.036ms
+IneqAnd: 0.049ms
+IneqOr: 839.388ms
+IneqOr: 360.357ms
+IneqOr: 379.948ms
+IneqOr: 315.966ms
+IneqOr: 341.623ms
+IneqOr: 318.469ms
+IneqOr: 315.292ms
+IneqOr: 294.776ms
+IneqOr: 321.75ms
+IneqOr: 311.694ms
+Thu Nov 16 03:27:34 PM EST 2023
+Select All: 1.219s
+Select All: 517.599ms
+Select All: 411.618ms
+Select All: 424.891ms
+Select All: 386.297ms
+Select All: 386.322ms
+Select All: 427.64ms
+Select All: 411.099ms
+Select All: 417.149ms
+Select All: 435.344ms
+Equal: 514.824ms
+Equal: 87.268ms
+Equal: 92.7ms
+Equal: 69.621ms
+Equal: 99.942ms
+Equal: 69.602ms
+Equal: 75.585ms
+Equal: 61.977ms
+Equal: 75.579ms
+Equal: 65.11ms
+Ineq: 824.704ms
+Ineq: 383.392ms
+Ineq: 333.451ms
+Ineq: 347.431ms
+Ineq: 322.416ms
+Ineq: 390.646ms
+Ineq: 317.275ms
+Ineq: 298.717ms
+Ineq: 298.935ms
+Ineq: 308.896ms
+IneqAnd: 0.856ms
+IneqAnd: 0.073ms
+IneqAnd: 0.092ms
+IneqAnd: 0.195ms
+IneqAnd: 0.333ms
+IneqAnd: 0.058ms
+IneqAnd: 0.034ms
+IneqAnd: 0.026ms
+IneqAnd: 0.03ms
+IneqAnd: 0.044ms
+IneqOr: 1.586s
+IneqOr: 678.977ms
+IneqOr: 607.743ms
+IneqOr: 377.047ms
+IneqOr: 311.868ms
+IneqOr: 310.182ms
+IneqOr: 296.885ms
+IneqOr: 280.832ms
+IneqOr: 286.161ms
+IneqOr: 302.695ms
+Thu Nov 16 09:55:41 PM EST 2023
+Select All: 1.085s
+Select All: 507.66ms
+Select All: 473.997ms
+Select All: 457.389ms
+Select All: 526.352ms
+Select All: 437.393ms
+Select All: 429.631ms
+Select All: 424.217ms
+Select All: 473.945ms
+Select All: 444.059ms
+Equal: 559.992ms
+Equal: 98.116ms
+Equal: 95.794ms
+Equal: 233.008ms
+Equal: 97.783ms
+Equal: 89.729ms
+Equal: 85.294ms
+Equal: 80.924ms
+Equal: 65.156ms
+Equal: 59.463ms
+Ineq: 763.711ms
+Ineq: 510.158ms
+Ineq: 340.44ms
+Ineq: 309.905ms
+Ineq: 296.807ms
+Ineq: 468.333ms
+Ineq: 327.13ms
+Ineq: 303.545ms
+Ineq: 291.614ms
+Ineq: 283.621ms
+IneqAnd: 0.814ms
+IneqAnd: 0.069ms
+IneqAnd: 0.139ms
+IneqAnd: 0.173ms
+IneqAnd: 0.369ms
+IneqAnd: 0.087ms
+IneqAnd: 0.047ms
+IneqAnd: 0.044ms
+IneqAnd: 0.045ms
+IneqAnd: 0.043ms
+IneqOr: 853.642ms
+IneqOr: 385.731ms
+IneqOr: 364.984ms
+IneqOr: 358.48ms
+IneqOr: 359.628ms
+IneqOr: 328.928ms
+IneqOr: 335.763ms
+IneqOr: 301.346ms
+IneqOr: 338.92ms
+IneqOr: 335.613ms
+Fri Nov 17 05:37:49 PM EST 2023
+Select All: 1.055s
+Select All: 547.733ms
+Select All: 538.844ms
+Select All: 459.4ms
+Select All: 446.87ms
+Select All: 485.55ms
+Select All: 437.289ms
+Select All: 441.746ms
+Select All: 687.959ms
+Select All: 588.497ms
+Equal: 528.099ms
+Equal: 92.781ms
+Equal: 76.142ms
+Equal: 81.215ms
+Equal: 73.377ms
+Equal: 71.814ms
+Equal: 71.947ms
+Equal: 77.392ms
+Equal: 72.395ms
+Equal: 68.014ms
+Ineq: 1.064s
+Ineq: 378.396ms
+Ineq: 361.339ms
+Ineq: 305.902ms
+Ineq: 337.841ms
+Ineq: 313.437ms
+Ineq: 326.545ms
+Ineq: 298.483ms
+Ineq: 289.065ms
+Ineq: 290.997ms
+IneqAnd: 0.887ms
+IneqAnd: 0.077ms
+IneqAnd: 0.095ms
+IneqAnd: 0.132ms
+IneqAnd: 0.352ms
+IneqAnd: 0.057ms
+IneqAnd: 0.035ms
+IneqAnd: 0.027ms
+IneqAnd: 0.031ms
+IneqAnd: 0.046ms
+IneqOr: 760.364ms
+IneqOr: 380.757ms
+IneqOr: 358.169ms
+IneqOr: 345.487ms
+IneqOr: 301.593ms
+IneqOr: 328.808ms
+IneqOr: 318.951ms
+IneqOr: 310.957ms
+IneqOr: 304.309ms
+IneqOr: 290.047ms
+Fri Nov 17 09:55:59 PM EST 2023
+Select All: 961.852ms
+Select All: 369.246ms
+Select All: 312.045ms
+Select All: 386.477ms
+Select All: 299.697ms
+Select All: 306.44ms
+Select All: 286.891ms
+Select All: 293.118ms
+Select All: 444.784ms
+Select All: 272.016ms
+Equal: 545.585ms
+Equal: 81.703ms
+Equal: 57.254ms
+Equal: 102.248ms
+Equal: 315.327ms
+Equal: 75.83ms
+Equal: 56.529ms
+Equal: 70.473ms
+Equal: 57.775ms
+Equal: 65.138ms
+Ineq: 621.333ms
+Ineq: 245.831ms
+Ineq: 233.797ms
+Ineq: 223.103ms
+Ineq: 223.536ms
+Ineq: 218.608ms
+Ineq: 240.321ms
+Ineq: 201.551ms
+Ineq: 197.573ms
+Ineq: 204.527ms
+IneqAnd: 0.861ms
+IneqAnd: 0.075ms
+IneqAnd: 0.097ms
+IneqAnd: 0.129ms
+IneqAnd: 0.371ms
+IneqAnd: 0.056ms
+IneqAnd: 0.035ms
+IneqAnd: 0.057ms
+IneqAnd: 0.031ms
+IneqAnd: 0.044ms
+IneqOr: 710.657ms
+IneqOr: 264.428ms
+IneqOr: 414.811ms
+IneqOr: 295.618ms
+IneqOr: 349.235ms
+IneqOr: 271.544ms
+IneqOr: 255.769ms
+IneqOr: 250.766ms
+IneqOr: 269.885ms
+IneqOr: 229.67ms
+Sat Nov 18 05:38:04 PM EST 2023
+Select All: 986.098ms
+Select All: 321.295ms
+Select All: 308.128ms
+Select All: 331.445ms
+Select All: 334.76ms
+Select All: 337.893ms
+Select All: 296.706ms
+Select All: 311.018ms
+Select All: 328.917ms
+Select All: 252.479ms
+Equal: 519.4ms
+Equal: 55.225ms
+Equal: 67.189ms
+Equal: 72.383ms
+Equal: 72.146ms
+Equal: 69.152ms
+Equal: 71.9ms
+Equal: 60.967ms
+Equal: 56.474ms
+Equal: 79.525ms
+Ineq: 599.722ms
+Ineq: 216.954ms
+Ineq: 220.436ms
+Ineq: 217.108ms
+Ineq: 222.424ms
+Ineq: 217.052ms
+Ineq: 212.544ms
+Ineq: 242.229ms
+Ineq: 191.056ms
+Ineq: 209.81ms
+IneqAnd: 0.834ms
+IneqAnd: 0.071ms
+IneqAnd: 0.144ms
+IneqAnd: 0.208ms
+IneqAnd: 0.392ms
+IneqAnd: 0.098ms
+IneqAnd: 0.035ms
+IneqAnd: 0.053ms
+IneqAnd: 0.078ms
+IneqAnd: 0.048ms
+IneqOr: 672.038ms
+IneqOr: 263.476ms
+IneqOr: 246.871ms
+IneqOr: 292.687ms
+IneqOr: 293.434ms
+IneqOr: 259.914ms
+IneqOr: 219.686ms
+IneqOr: 237.997ms
+IneqOr: 216.673ms
+IneqOr: 256.272ms
+Sat Nov 18 05:38:21 PM EST 2023
+Select All: 748.666ms
+Select All: 314.462ms
+Select All: 285.066ms
+Select All: 296.28ms
+Select All: 302.674ms
+Select All: 315.76ms
+Select All: 313.097ms
+Select All: 270.245ms
+Select All: 372.108ms
+Select All: 299.943ms
+Equal: 511.986ms
+Equal: 71.153ms
+Equal: 83.347ms
+Equal: 77.056ms
+Equal: 72.071ms
+Equal: 72.517ms
+Equal: 65.471ms
+Equal: 72.636ms
+Equal: 57.361ms
+Equal: 54.37ms
+Ineq: 647.304ms
+Ineq: 267.878ms
+Ineq: 222.897ms
+Ineq: 218.112ms
+Ineq: 257.194ms
+Ineq: 234.473ms
+Ineq: 209.573ms
+Ineq: 221.381ms
+Ineq: 200.166ms
+Ineq: 203.944ms
+IneqAnd: 0.974ms
+IneqAnd: 0.08ms
+IneqAnd: 0.113ms
+IneqAnd: 0.149ms
+IneqAnd: 0.373ms
+IneqAnd: 0.059ms
+IneqAnd: 0.037ms
+IneqAnd: 0.029ms
+IneqAnd: 0.037ms
+IneqAnd: 0.049ms
+IneqOr: 631.896ms
+IneqOr: 263.542ms
+IneqOr: 206.522ms
+IneqOr: 214.817ms
+IneqOr: 219.295ms
+IneqOr: 187.59ms
+IneqOr: 206.567ms
+IneqOr: 199.11ms
+IneqOr: 215.217ms
+IneqOr: 204.413ms
